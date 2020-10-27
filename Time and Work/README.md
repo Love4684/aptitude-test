@@ -129,4 +129,18 @@
       Therefore,
       One man alone can finish the work in 70 days and One boy alone can finish the work in 35 days.
 
-# 5. 
+# 5. 3 men and 4 boys can complete a piece of work in 12 days. 4 men and 3 boys can do tha same work in 10 days. Then 2 men and 3 boys can finish the work in ? 
+
+      (3men+4boys) 12 days = (4men+3boys) 10 days
+      18men+24boys=20men+15boys
+      2 men = 9 boys..............(i)
+
+      4men+3boys=(2×9)boys+3boys=21boys
+      21 boys can do a work in 10 days
+      Total work = 21×10=210 units
+
+      2 men + 3 boys = 9 boys + 3 boys (from eq i)
+      = 12 boys
+      12 boys can do 210 units in
+
+      210/12=35/2=17.5 days
