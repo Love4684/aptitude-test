@@ -87,3 +87,46 @@
       B's one day work is 1/7.5
 
       So B can do the same work in 7.5 days or 7 days and 12 hours.
+
+# 4. 4 Men and 6 Boys can finish a piece of work in 5 Days , While 3 Men and 4 Boys can Finish it in 7 days . Find the time taken by 1 man alone or that by 1 boy alone ?
+
+      Let 1 man alone can finish the work in X days and 1 boy alone can finish it in Y .
+      Then,
+      1 man's 1 days work = 1/X
+      And,
+      1 boy's 1 day's work = 1/Y
+      (4 men's 1 day's work )+(6 boys 1 day's work )= 1/5
+      => 4/X + 6/Y = 1/5
+      => 4U + 6V = 1/5 [ Where 1/X = U and 1/Y =V]
+      => 4U + 6V = 1/5 --------(1)
+      Again,
+      ( 3 men's 1 day's work ) + ( 4 boys 1 day's work ) = 1/7
+      => 3/X + 4/Y = 1/7
+      => 3U + 4V = 1/7 -------(2)
+      On multiplying (1) by 3 and ,(2) by 4 we get,
+      12U + 18V = 3/5 --------(3)
+      And,
+      12U + 16 V = 4/7 --------(4)
+      Subtracting (3) and (4) we get,
+      2V = ( 3/5 - 4/7)
+      2V = 1/35
+      V = 1/35 ×2
+      V = 1/70
+      1/Y = V
+      1/Y = 1/70
+      Y = 70 days
+      Putting V = 1/70 in equation (1) we get,
+      4U + 6V = 1/5
+      4U = ( 1/5 - 6V )
+      4U = ( 1/5 - 6/70 )
+      4U = ( 14 - 6 /70)
+      4U = ( 8/70)
+      U = 8/70 × 1/4
+      U = 1/35
+      1/X = U
+      1/X = 1/35
+      X = 35 days
+      Therefore,
+      One man alone can finish the work in 70 days and One boy alone can finish the work in 35 days.
+
+# 5. 
