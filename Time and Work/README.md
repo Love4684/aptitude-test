@@ -144,3 +144,17 @@
       12 boys can do 210 units in
 
       210/12=35/2=17.5 days
+
+# 6. A and B together can complete a piece of work in 18 days, B and C in 24 days and A and C in 36 days. In how many days,will all of them together complete the work? and also In how many days can C do the work alone?
+
+      (A + B)’s 1 day’s work = 1/18
+      (B + C)’s 1 day’s work = 1/24
+      (C + A)’s 1 day’s work = 1/36
+      On adding,
+      2(A + B + C)’s 1 day’s work = (1/18)+(1/24)+(1/36) = 4+3+2/72 = 1/8
+      ∴ (A + B + C)’s 1 day’s work = 1/16
+      ∴ A, B and C together will complete the work in 16 days.
+
+      C alone does (1/16)-(1/18) = (18–16)/(16*18) = 2/(16*18) = (1/144)th part of the work in a day. So C, working alone, will complete the work in 144 days.
+      
+      
