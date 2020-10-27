@@ -14,6 +14,16 @@
           Ratio of work done by A and B = 3 : 1.
 
           Ratio of times taken by A and B to finish a work = 1 : 3.
+          
+   4. Basic trick:
+                     
+          A can finish a work in 10 days and B can do the same work in 15 days.In how many days,will all of them together complete the work?
+          Let Total Work = LCM(10,15) = 30 units or chair
+          efficiency of a = 30/10 = 3 chair in one day
+          efficiency of b = 30/15 = 2 chair in one day
+          in one day together 5 chair completed
+          total day = 30/5 = 6 day
+                     
 # 1. A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days A alone can finish the remaining work?
 
       A can finish work in 18 days.
