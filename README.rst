@@ -59,7 +59,7 @@
 
       85 plants are there in the row
 
-6.  `A bag contains orange flavoured candies only. Rahi takes out one candy without looking into the bag. What is the probability that she takes out –(i)The orange flavoured candy? (ii) a lemon flavoured candy? <https://leetcode.com/problems/reverse-words-in-a-string/>`_
+6.  `A bag contains orange flavoured candies only. Rahi takes out one candy without looking into the bag. What is the probability that she takes out –(i)The orange flavoured candy? (ii) a lemon flavoured candy? <https://www.vedantu.com/question-answer/a-bag-contains-orange-flavoured-candies-only-class-10-maths-cbse-5f5da40c8f2fe2491852d244>`_
 ===============================================================================
 
 .. code:: math 
@@ -67,7 +67,7 @@
       1 ans) 1
       2 ans) 0
 
-7.  `How many 3-letter words with or without meaning, can be formed out of the letters of the word LOGARITHMS if repetition of letters is not allowed? <https://leetcode.com/problems/reverse-words-in-a-string/>`_
+7.  `How many 3-letter words with or without meaning, can be formed out of the letters of the word LOGARITHMS if repetition of letters is not allowed? <https://www.vedantu.com/question-answer/3letter-words-with-or-without-meaning-can-class-11-maths-cbse-5fb2c940b7fb205f4fd992d1>`_
 ===============================================================================
 
 .. code:: math 
