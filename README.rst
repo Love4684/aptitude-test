@@ -67,10 +67,13 @@
       1 ans) 1
       2 ans) 0
 
+7.  `How many 3-letter words with or without meaning, can be formed out of the letters of the word LOGARITHMS if repetition of letters is not allowed? <https://leetcode.com/problems/reverse-words-in-a-string/>`_
 
+===============================================================================
 
+.. code:: math 
 
-
+   720
 
 
 
