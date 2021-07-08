@@ -72,7 +72,9 @@
 
 .. code:: math 
 
-   720
+      The word LOGARITHMS has 10 different letters.
+      Hence, the number of 3-letter words (with or without meaning) formed by using these letters =  nPr is given by: nPr = n!/(n-r)! = 10 P 3 = 
+       =10×9×8=720.
 
 
 
