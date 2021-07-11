@@ -5,8 +5,7 @@
    :depth: 3
 
 
-`Reverse Words in a String <https://leetcode.com/problems/reverse-words-in-a-string/>`_
-===============================================================================
+
 
 
 1. If log 2 = 0.3010 then value of log 25 is
