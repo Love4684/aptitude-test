@@ -85,6 +85,7 @@
 
       vineyard : grapes :: orchard : oranges
       ENGINE is to AIRPLANE : OAR is to BOAT
+      string is to rope as a)box is to crate b)knot is to tie c)bow is to ribbon d)boat is to motor e)dog is to puppy
 
       
       
